@@ -11,3 +11,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.je {
+  font-family: 'Cabin Condensed', sans-serif;
+}
+
+.et {
+  font-family: 'Lobster', cursive;
+}
